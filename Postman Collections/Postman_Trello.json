@@ -441,7 +441,8 @@
 			},
 			"request": {
 				"method": "GET",
-				"header": []
+				"header": [],
+				"url": "https://api.trello.com/1/emoji"
 			},
 			"response": []
 		}
