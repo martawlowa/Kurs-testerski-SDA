@@ -434,7 +434,7 @@
 			"response": []
 		},
 		{
-			"name": "New Request",
+			"name": "Emoji",
 			"id": "e0f697ff-6359-48c9-912a-44cfe3f96ab2",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
